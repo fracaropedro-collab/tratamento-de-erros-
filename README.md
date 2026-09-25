@@ -20,6 +20,7 @@ try {
 } catch (erro) {
   console.error("Erro:", (erro as Error).message);
 }
+
 2. Tratamento de exceções
 
 Sua finalidade é separar o fluxo normal do fluxo de erro, evitando ifs repetidos e permitindo tratar falhas em um ponto centralizado, mesmo quando ocorrem em pontos profundos do código.
