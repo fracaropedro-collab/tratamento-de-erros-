@@ -1,4 +1,4 @@
-# tratamento-de-erros-
+ tratamento-de-erros-
 1. Tratamento de erros e exceções
 
 Tratamento de erros é o conjunto de práticas para prever, detectar e responder a situações anômalas durante a execução de um programa, evitando falhas abruptas.
