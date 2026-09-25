@@ -1,12 +1,8 @@
 # tratamento-de-erros
 1. Tratamento de erros e exceções
-
 Tratamento de erros é o conjunto de práticas para prever, detectar e responder a situações anômalas durante a execução de um programa, evitando falhas abruptas.
-
 Exceção é um objeto lançado em tempo de execução quando ocorre uma condição anormal, interrompendo o fluxo normal até ser capturado por um catch.
-
 Erro x exceção: erro é um termo amplo (pode ser de sintaxe, lógica ou execução); exceção é o mecanismo específico, em tempo de execução, usado para sinalizar e tratar um erro de forma estruturada (throw/catch).
-
 Importância: evita que o programa quebre, melhora a experiência do usuário, facilita a depuração e garante liberação correta de recursos.
 
 typescript
