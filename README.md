@@ -1,6 +1,6 @@
 # tratamento-de-erros
 1. Tratamento de erros e exceções
-2. 
+
 Tratamento de erros é o conjunto de práticas para prever, detectar e responder a situações anômalas durante a execução de um programa, evitando falhas abruptas.
 
 Exceção é um objeto lançado em tempo de execução quando ocorre uma condição anormal, interrompendo o fluxo normal até ser capturado por um catch.
